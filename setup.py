@@ -10,12 +10,12 @@ except IOError:
 
 setup(
     name='django-contrib-comments',
-    version='1.6.0',
-    url="http://github.com/django/django-contrib-comments",
+    version='1.6.0 custom',
+    url="https://github.com/devinbarry/django-contrib-comments",
     description='The code formerly known as django.contrib.comments.',
     long_description=long_description,
     author='Django Software Foundation',
-    author_email='jacob@jacobian.org',
+    author_email='devin@toptal.com',
     license='BSD',
     platforms='any',
     zip_safe=False,
