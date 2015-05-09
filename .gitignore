@@ -2,3 +2,7 @@
 *.egg-info
 .tox/
 docs/_build
+
+
+# Ignore PyCharm files
+.idea/
